@@ -1,0 +1,10 @@
+{ "headers":
+{"action":"DELETE"},
+ "body":
+ [
+ 	{"dataModelId":2,"content":"2"},
+	{"dataModelId":3,"content":"3"}
+
+ ]
+ 
+}
